@@ -1,8 +1,8 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-image: url('../images/grid.png')
 }
 
-a {
-  color: #00B7FF;
+h1{
+	font-family: 'Titillium Web', sans-serif;
 }
